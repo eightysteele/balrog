@@ -1,4 +1,4 @@
-#What is Balrog ? 
+#What is Balrog? 
 
 Balrog is a bad ass map tiler for big data.That is all.
 
