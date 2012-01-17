@@ -16,4 +16,3 @@
   [& [mode :as args]]
   (let [port (Integer. (get (System/getenv) "PORT" "8080"))]
     (server/start port (mk-opts mode))))
-
